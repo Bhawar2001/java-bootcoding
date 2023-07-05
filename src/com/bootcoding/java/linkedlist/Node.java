@@ -7,3 +7,5 @@ public class Node {
         this.data =value;
     }
 }
+
+
